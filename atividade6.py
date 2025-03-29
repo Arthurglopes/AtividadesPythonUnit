@@ -1,0 +1,7 @@
+alunos = ("Arthur", "Rafa", "Miguel")
+notas = (10.0, 9.9, 9.2)
+print(alunos)
+print(notas)
+print (alunos[0], notas[0])
+print(alunos[-1], notas[-1])
+print(alunos[1], notas[1])
